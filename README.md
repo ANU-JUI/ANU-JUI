@@ -1,9 +1,7 @@
-# Hi 👋, I'm ANUSHKA DUTTA                                                                                            [![](https://visitcount.itsvg.in/api?id=ANU-JUI&icon=5&color=5)](https://visitcount.itsvg.in)
+# Hi 👋, I'm ANUSHKA DUTTA                                
 
----
-[![](https://visitcount.itsvg.in/api?id=ANU-JUI&icon=5&color=5)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANU-JUI&label=Profile views&color=0e75b6&style=flat"  /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Code • Learn • Build
 
