@@ -1,4 +1,9 @@
-# Hi 👋, I'm ANUSHKA DUTTA
+# Hi 👋, I'm ANUSHKA DUTTA                                                                                            [![](https://visitcount.itsvg.in/api?id=ANU-JUI&icon=5&color=5)](https://visitcount.itsvg.in)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ANU-JUI&icon=5&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Code • Learn • Build
 
