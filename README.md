@@ -1,6 +1,8 @@
 # Hi 👋, I'm ANUSHKA DUTTA                                
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANU-JUI&label=Profile views&color=0e75b6&style=flat"  /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ANU-JUI&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 
 ### Code • Learn • Build
